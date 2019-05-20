@@ -1,0 +1,33 @@
+h1{
+	margin-left: 30%;
+	margin-right: 45%;
+	text-transform: uppercase;
+	background: rgb(300,0,0);
+}
+p{
+	background: rgb(238,232,178);
+	padding: 20px;
+}
+body{
+	background: rgb(238,232,178);
+	}
+h2{
+	margin-left: 30%;
+	margin-right: 45%;
+	text-transform: uppercase;
+	background: rgb(300,0,0);
+	padding: 5px;
+}
+#weaponimages{
+	padding: 20px;
+	margin-top: 30px;
+	margin-left:10px;
+
+}
+#suit{
+	margin-left: 50px;
+}
+#Submit{
+	margin-top: 40px;
+
+}
