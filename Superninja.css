@@ -1,7 +1,7 @@
 h1{
 	text-align: center;
-	margin-left: 30%;
-	margin-right: 45%;
+	margin-left: 33%;
+	margin-right: 35%;
 	text-transform: uppercase;
 	text-shadow: 4px 4px 5px black;
 	text-decoration: underline;
@@ -33,32 +33,51 @@ h2{
 
 }
 #suit{
-	text-align: center;
-	margin-left: 25%;
-	margin-right: 25%;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
 }
 #Submit{
 	margin-top: 40px;
 
 }
 #ninja1{
-	padding-left: 33%;
-	
+   display: block;
+   margin-left: auto;
+   margin-right: auto;	
 }
 #physique{
 	background: rgb(238,232,178);
 	vertical-align: middle;
 	padding: 20px;
 }
+
 #weapon{
-	padding-left: 50px;
+   display: block;
+   margin-left: auto;
+   padding: 20px;
+   margin-right: auto;
+   border: 1px solid #ddd;
 }
 #images{
-	padding-left:50px;
+   display: block;
+   margin-left: auto;
+   padding: 20px;
+   border: 1px solid #ddd;
+   margin-right: auto;
 }
+
+
 #ninjaweapon{
-	padding-left:50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+	
 }
 #ninja{
-	padding-left: 50px;
+   display: block;
+   margin-left: auto;
+   border: 1px solid #ddd;
+   padding: 20px;
+   margin-right: auto;
 }
