@@ -2,21 +2,23 @@ h1{
 	margin-left: 30%;
 	margin-right: 45%;
 	text-transform: uppercase;
-	
+	text-shadow: 4px 4px 5px black;
 	text-decoration: underline;
+	font-weight: 300;
 }
 p{
 	background: rgb(238,232,178);
 	padding: 20px;
+	font-family: Georgia;
 }
 body{
-	background: rgb(238,232,178);
+	background: rgb(153,255,153);
 	}
 h2{
 	margin-left: 30%;
 	margin-right: 45%;
 	text-transform: uppercase;
-	background: rgb(300,0,0);
+	text-shadow: 3px 3px 7px black;
 	padding: 5px;
 	text-decoration: underline;
 }
@@ -33,7 +35,21 @@ h2{
 	margin-top: 40px;
 
 }
-#intro{
-	font-family: Georgia;
-	font-size: 
+#ninja1{
+	margin-left: 30%;
+
+}
+#physique{
+	background: rgb(238,232,178);
+	margin-left: 5%;
+	text-transform: full-width;
+}
+#weapon{
+	padding:30px;
+}
+#images{
+	padding:30px;
+}
+#ninjaweapon{
+	padding:30px;
 }
