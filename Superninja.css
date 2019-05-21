@@ -2,7 +2,8 @@ h1{
 	margin-left: 30%;
 	margin-right: 45%;
 	text-transform: uppercase;
-	background: rgb(300,0,0);
+	
+	text-decoration: underline;
 }
 p{
 	background: rgb(238,232,178);
@@ -17,6 +18,7 @@ h2{
 	text-transform: uppercase;
 	background: rgb(300,0,0);
 	padding: 5px;
+	text-decoration: underline;
 }
 #weaponimages{
 	padding: 20px;
@@ -30,4 +32,8 @@ h2{
 #Submit{
 	margin-top: 40px;
 
+}
+#intro{
+	font-family: Georgia;
+	font-size: 
 }
